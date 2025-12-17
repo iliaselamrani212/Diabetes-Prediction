@@ -106,7 +106,7 @@ The stacking approach yielded significant improvements over single models due to
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/diabetes-prediction-playground.git](https://github.com/your-username/diabetes-prediction-playground.git)
+    git clone https://github.com/iliaselamrani212/Diabetes-Prediction
     ```
 
 2.  **Install dependencies** (ensure you have GPU support if running locally):
