@@ -35,7 +35,7 @@ The objective is to predict the probability of a diabetes diagnosis using synthe
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
-Before modeling, an extensive analysis was conducted in `eda/eda_diabetes.ipynb`.
+Before modeling, an extensive analysis was conducted .
 
 **Key Findings:**
 * **Data Quality:** No missing values in the synthetic dataset.
