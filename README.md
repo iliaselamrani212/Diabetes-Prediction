@@ -22,7 +22,7 @@ The objective is to predict the probability of a diabetes diagnosis using synthe
 
 ---
 
-## 🧠 Project Highlights
+## 🧠 Project Highlights 
 
 * ✔ **Complete Exploratory Data Analysis (EDA):** Deep dive into correlations and distributions.
 * ✔ **High-order Interactions:** specialized engineering from 2-way up to 4-way feature interactions.
