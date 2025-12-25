@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction – Kaggle Playground Series 2025
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue) 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Playground-20BEFF)
 ![License](https://img.shields.io/badge/License-MIT-green) 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
