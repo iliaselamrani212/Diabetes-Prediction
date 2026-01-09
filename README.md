@@ -4,7 +4,7 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-Playground-20BEFF) 
 ![License](https://img.shields.io/badge/License-MIT-green) 
 ![Status](https://img.shields.io/badge/Status-Completed-success)  
-f
+
 This repository contains an end-to-end machine learning pipeline developed for the **Kaggle Playground Series – Season 5 Episode 12**.
   
 The objective is to predict the probability of a diabetes diagnosis using synthetic tabular medical data. This project focuses on **robust validation**, **advanced feature engineering**, and **ensemble learning**, designed as a professional portfolio project rather than a simple competition notebook .
