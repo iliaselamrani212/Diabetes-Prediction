@@ -10,7 +10,7 @@ This repository contains an end-to-end machine learning pipeline developed for t
 The objective is to predict the probability of a diabetes diagnosis using synthetic tabular medical data. This project focuses on **robust validation**, **advanced feature engineering**, and **ensemble learning**, designed as a professional portfolio project rather than a simple competition notebook .
    
 ---  
-     
+      
 ## 📌 Problem Statement   
      
 | Attribute | Description | 
