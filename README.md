@@ -14,7 +14,7 @@ The objective is to predict the probability of a diabetes diagnosis using synthe
 ## 📌 Problem Statement   
           
 | Attribute | Description |  
-| :--- | :--- |  
+| :--- | :--- |    
 | **Task** | Binary Classification (Predict diabetes probability) |     
 | **Metric** | ROC-AUC |
 | **Dataset** | Synthetic medical tabular data (Numerical + Categorical) |
