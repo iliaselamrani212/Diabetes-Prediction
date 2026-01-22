@@ -15,7 +15,7 @@ The objective is to predict the probability of a diabetes diagnosis using synthe
        
 | Attribute | Description |  
 | :--- | :--- |  
-| **Task** | Binary Classification (Predict diabetes probability) |  
+| **Task** | Binary Classification (Predict diabetes probability) |     
 | **Metric** | ROC-AUC |
 | **Dataset** | Synthetic medical tabular data (Numerical + Categorical) |
 | **Platform** | Kaggle Playground Series 2025 |
