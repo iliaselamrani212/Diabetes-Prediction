@@ -11,7 +11,7 @@ The objective is to predict the probability of a diabetes diagnosis using synthe
       
 ---  
           
-## 📌 Problem Statement   
+## 📌 Problem Statement     
           
 | Attribute | Description |  
 | :--- | :--- |    
