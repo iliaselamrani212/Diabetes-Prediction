@@ -1,9 +1,9 @@
   # 🩺 Diabetes Prediction – Kaggle Playground Series 2025   
-
+ 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)    
 ![Kaggle](https://img.shields.io/badge/Kaggle-Playground-20BEFF) 
 ![License](https://img.shields.io/badge/License-MIT-green) 
-![Status](https://img.shields.io/badge/Status-Completed-success)      
+![Status](https://img.shields.io/badge/Status-Completed-succ ess)      
     
 This repository contains an end-to-end machine learning pipeline developed for the **Kaggle Playground Series – Season 5 Episode 12**. 
   
